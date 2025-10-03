@@ -1,4 +1,4 @@
-package actividadesEscuela;
+package actividadesEscuela.CLASE_DESCONOCIDA;
 public class DiasSemana {
     public static void main(String[] args) {
         final String LUNES = "Lunes";

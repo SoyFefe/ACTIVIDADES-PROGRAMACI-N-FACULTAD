@@ -1,4 +1,4 @@
-package actividadesEscuela;
+package actividadesEscuela.CLASE_DESCONOCIDA;
 public class total {
     public static void main(String[] args) {
         double precio=12.92;

@@ -1,4 +1,4 @@
-package actividadesEscuela;
+package actividadesEscuela.CLASE_DESCONOCIDA;
 import java.util.Scanner;
 
 public class Radicacion {

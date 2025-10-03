@@ -1,4 +1,4 @@
-package actividadesEscuela;
+package actividadesEscuela.CLASE_DESCONOCIDA;
 public class suma {
     public static void main(String[] args) {
         int a=4;
